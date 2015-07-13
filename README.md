@@ -17,7 +17,7 @@ This image works well with the below related images.
   - [dylanlindgren/docker-laravel-phpfpm](https://github.com/dylanlindgren/docker-laravel-phpfpm)
   - [dylanlindgren/docker-laravel-composer](https://github.com/dylanlindgren/docker-laravel-composer)
   - [dylanlindgren/docker-laravel-artisan](https://github.com/dylanlindgren/docker-laravel-artisan)
-  - [dylanlindgren/docker-laravel-bower](dylanlindgren/docker-laravel-bower)
+  - [dylanlindgren/docker-laravel-bower](https://github.com/dylanlindgren/docker-laravel-bower)
   - [dylanlindgren/docker-laravel-phpunit](https://github.com/dylanlindgren/docker-laravel-phpunit)
 
 An automated build for this repo is available on the [Docker Hub](https://registry.hub.docker.com/u/yoelfme/docker-nginx-laravel/).
