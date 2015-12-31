@@ -4,7 +4,7 @@
 
 This is a [Docker](http://www.docker.com) image for [Nginx](http://nginx.org), for using [Laravel PHP Framework](http://laravel.com/).
 
-It's a fork of [dylanlindgren/docker-larave-nginx](https://github.com/dylanlindgren/docker-laravel-nginx).
+It's a fork of [dylanlindgren/docker-laravel-nginx](https://github.com/dylanlindgren/docker-laravel-nginx).
 
 With the features:
 
@@ -22,4 +22,6 @@ This image works well with the below related images.
 
 An automated build for this repo is available on the [Docker Hub](https://registry.hub.docker.com/u/yoelfme/docker-nginx-laravel/).
 
-With :heart: by [monoku](http://monoku.com)
+---
+
+With :heart: by [monoku](http://monoku.com) and [me](http://github.com/yoelfme)
