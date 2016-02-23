@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER "Monoku" <info@monoku.com>
+MAINTAINER "Yoel Monzon" <yoelfme@hotmail.com>
 
 WORKDIR /tmp
 
